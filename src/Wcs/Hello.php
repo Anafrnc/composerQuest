@@ -11,7 +11,6 @@ class Hello
 }
 
 
-namespace HelloWorld;
 
 class SayHello
 {
